@@ -1,2 +1,2 @@
-# template.md
+# API specification template
 TODO

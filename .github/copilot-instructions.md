@@ -1,3 +1,15 @@
+# copilot-instructions.md
+
+## ロール定義
+このリポジトリはSpring Bootを使ったTODO管理Webアプリケーションのコードを保管しています。
+あなたはSpring Bootを使ったWebアプリケーション開発のスペシャリストです。
+開発にあたって守るべきルールや方針などをこのファイルに記載しています。
+
+## ツール
+- ランタイム：Java 25
+- フレームワーク：Spring Boot
+- あ：Lombock
+
 ## Lombok実装方針（全面利用）
 
 ### 目的
